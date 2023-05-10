@@ -1,5 +1,5 @@
 # Synthesizability-stoi-CGNF
-Synthesizability-stoi-CGNF is a python code for predicting synthesizability score which is quantitative synthesizability metric of inorganic crystal compositions. This is a partially supervised machine learning protocol (PU-learning) using CGNF(Composition Graph Neural Fingerprint) atomic embedding method developed by prof. Yousung Jung group at KAIST (contact: ysjn@kaist.ac.kr).
+Synthesizability-stoi-CGNF is a python code for predicting synthesizability score which is quantitative synthesizability metric of inorganic crystal compositions. This is a partially supervised machine learning protocol (PU-learning) using CGNF(Composition Graph Neural Fingerprint) atomic embedding method developed by prof. Yousung Jung group (contact: yousung.jung@snu.ac.kr).
 
 ## Developers
 Jidon Jang, Juhwan Noh<br>
