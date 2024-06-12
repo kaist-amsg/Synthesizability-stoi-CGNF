@@ -8,7 +8,7 @@ Jidon Jang, Juhwan Noh<br>
 Python3<br> Numpy<br> Pytorch<br> Pymatgen<br>
 
 ## Publication
-Jidon Jang, Juhwan Noh, Lan Zhou, Geun Ho Gu, John M. Gregoire, and Yousung Jung, "Synthesizability of Materials Stoichiometry using Semi-Supervised Learning" (under review)
+Jidon Jang, Juhwan Noh, Lan Zhou, Geun Ho Gu, John M. Gregoire, and Yousung Jung, "Synthesizability of materials stoichiometry using semi-supervised learning", Matter, 2024, 7(6), 2294-2312 (DOI: 10.1016/j.matt.2024.05.002)
 
 ## Usage
 ### [1] Define a customized data format and prepare atomic embedding vector file for generation of CGNF
